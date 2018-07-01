@@ -374,7 +374,7 @@
 
 
 .foot{
-	color: #fff;
+	color: aqua;
 	height: 215px;
 	background-color: #151515;
 	padding: 50px;
@@ -405,8 +405,4 @@
 	font-size: small;
 	color: silver;
 	font-style: italic;
-}
-
-.foot a{
-	color:aqua;
 }
