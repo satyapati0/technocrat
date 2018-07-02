@@ -6,5 +6,18 @@ position: relative;
 background-image:url("./background-img.jpg");
 background-size: cover;
 }
+  
+  #headerh1{
+	float: left;
+	color: #fff;
+	font-size: 18px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+  
+  #tagline{
+	color: silver;
+	font-size: 14px;
+}
 
 }
