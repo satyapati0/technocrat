@@ -1,0 +1,10 @@
+@media all and (max-width: 767px){
+#wrapperHeader{
+width:100%;
+height:auto;
+position: absolute;
+background-image:url("./background-img.jpg");
+background-size: cover;
+}
+
+}
