@@ -13,11 +13,13 @@ background-size: cover;
 	font-size: 18px;
 	padding-top: 20px;
 	font-weight: bold;
+	box-sizing:border-box;
 }
   
   #tagline{
 	color: silver;
 	font-size: 14px;
+	box-sizing:border-box;
 }
 
 }
