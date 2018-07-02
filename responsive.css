@@ -1,20 +1,23 @@
-@media all and (max-width: 767px){
-#wrapperHeader{
-width:100%;
-height:auto;
-position: relative;
-background-image:url("./background-img.jpg");
-background-size: cover;
-}
-  
-  #headerh1{
-	float: left;
-	color: #fff;
-	font-size: 10px;
-	padding-top: 5px;
-	font-weight: normal;
-	box-sizing:border-box;
-}
+@media screen and (max-width: 768px){
+ 
+	#wrapperHeader{
+		width:100%;
+		height:100%;
+		position: relative;
+		background-image:url("./background-img.jpg");
+                background-repeat:no-repeat;
+		background-position: center;
+	        background-size: cover;
+	}
+	
+	#headerh1{f
+		float: left;
+	        color: #fff;
+	        font-size: 10px;
+	        padding-top: 5px;
+	        font-weight: normal;
+	        box-sizing:border-box;
+	}
   
   #tagline{
 	color: silver;
