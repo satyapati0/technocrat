@@ -2,7 +2,7 @@
 #wrapperHeader{
 width:100%;
 height:auto;
-position: absolute;
+position: relative;
 background-image:url("./background-img.jpg");
 background-size: cover;
 }
